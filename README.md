@@ -1,15 +1,18 @@
 ## Hello I am Anuska Chakraborty</br>
 💡 About Me – Frontend Web Developer | JavaScript Enthusiast Dsa With Java</br>
+
 🎓 CSE Student (4th Year)</br>
 Pursuing B.Tech in Computer Science from Asansol Engineering College with a strong grasp of web development fundamentals.</br>
+
 💻 Frontend Focused Tech Stack</br>
 Skilled in HTML, CSS, JavaScript, and experienced in using Node.js, Express.js, and REST APIs for backend integration.</br>
-🛠️ Project Work – Email Validator (iValidate)</br>
-Built a responsive web app that validates email addresses using EmailValidation.io API with real-time async calls and a clean UI.</br>
+
 📘 Strong in Core CS Subjects</br>
 Good understanding of Object-Oriented Programming (OOP), DBMS, and basic data structures — applying these concepts in projects and learning.</br>
+
 🧠 Key Strengths</br>
 Fast learner, strong problem-solving skills, and experienced in Git/GitHub collaboration workflows.</br>
+
 🚀 Growth-Oriented</br>
 Eager to join internship or junior web development roles to gain industry experience and build impactful solutions.</br>
 
